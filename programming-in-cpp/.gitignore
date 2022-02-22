@@ -1,0 +1,6 @@
+tests
+build
+*.gch
+juce5_library
+graphic_2d
+*.d

